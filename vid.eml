@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="opencv-490.jar" scope="COMPILE">
+		<srcroot url="jar://$USER_HOME$/Downloads/opencv/build/java/opencv-490.jar!/"/>
+		<srcroot url="jar://$USER_HOME$/Downloads/opencv/build/java/opencv-490.jar!/"/>
+	</lib>
+</component>
